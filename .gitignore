@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.py[cod]
+*.log
+.venv/
+venv/
+data/raw/
+output/
+*.duckdb
+*.tmp
